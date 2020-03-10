@@ -1,5 +1,7 @@
 # CoronaAngular
 
+This is a project done as a lunch and learn. Fun intro in how to do the Angulars
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
 ## Development server
